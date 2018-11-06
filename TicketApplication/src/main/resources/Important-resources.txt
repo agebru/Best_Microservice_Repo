@@ -1,0 +1,48 @@
+
+http://www.jcombat.com/spring
+http://mrbool.com/search/
+http://mrbool.com/search/?site=28&tipo=0&txtsearch=&o=&keyword=#result
+
+Spring, Hibernate and JPA
+==========================
+https://hellokoding.com/
+https://hellokoding.com/jpa-one-to-many-relationship-mapping-example-with-spring-boot-maven-and-mysql/
+https://hellokoding.com/jpa-one-to-one-shared-primary-key-relationship-mapping-example-with-spring-boot-maven-and-mysql/
+
+
+https://huongdanjava.com/getter-setter-and-constructors-with-project-lombok.html
+https://o7planning.org/
+
+Spring Microservices
+====================
+https://dzone.com/articles/communicating-between-microservices
+https://www.javacodegeeks.com/2017/12/microservices-implementation-example-spring-boot.html
+https://www.javacodegeeks.com/2017/12/what-are-microservices.html
+https://www.javacodegeeks.com/2018/03/microservices-using-spring-boot-spring-cloud-part-1-overview.html
+https://sivalabs.in/2018/03/microservices-using-springboot-spring-cloud-part-1-overview/
+
+
+
+
+---- Spring MVC and JQuery for Ajax Form Validation ---
+============================================================
+http://www.jcombat.com/spring
+https://www.javacodegeeks.com/2011/07/jqgrid-rest-ajax-spring-mvc-integration.html
+https://www.javacodegeeks.com/2012/02/spring-mvc-and-jquery-for-ajax-form.html
+https://www.javacodegeeks.com/2013/07/spring-mvc-requestbody-and-responsebody-demystified.html
+https://www.javacodegeeks.com/2014/02/migrating-spring-mvc-restful-web-services-to-spring-4.html
+https://www.javacodegeeks.com/2012/09/simple-rest-client-in-java.html
+https://www.javacodegeeks.com/2012/11/spring-mvc-rest-calls-with-ajax.html
+
+
+--- Logging with Log4j ----
+https://examples.javacodegeeks.com/enterprise-java/log4j/log4j-2-getting-started-example/
+https://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-using-log4j-example/
+
+
+
+
+
+--- Java Design patterns ---
+https://www.javacodegeeks.com/2015/09/observer-design-pattern.html
+
